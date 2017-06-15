@@ -3,7 +3,7 @@ Nepali date converter tool for UWP
 
 **How to use?**
 
-DateTime dt = DateTime.Now;
+```DateTime dt = DateTime.Now;
 
 NepaliDate nDate = NepaliDate.AD2BS(dt);
 
@@ -21,7 +21,7 @@ NepaliDate.getNepaliMahina(6); //=> आश्विन
 
 NepaliDate.getNepaliMahina(6,true); //=> असोज
 
-NepaliDate.getNepaliNumber(123); //=> १२३
+NepaliDate.getNepaliNumber(123); //=> १२३```
 
 ---------------------------------------------
 
