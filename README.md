@@ -1,7 +1,7 @@
 # NepaliDateTool.UWP
 Nepali date converter tool for UWP
 
-How to use?
+**How to use?**
 
 DateTime dt = DateTime.Now;
 
@@ -23,33 +23,22 @@ NepaliDate.getNepaliMahina(6,true); //=> असोज
 
 NepaliDate.getNepaliNumber(123); //=> १२३
 
+---------------------------------------------
+
+|**Formats**|**Example**|
+|-----------|-----------|
+|yyyy       |  2073     |
+|yyy        | 073       |
+|yy         |73         |
+|MMM        |   आश्विन   |
+|mmm        |  असोज    |
+|mm         | ०६        |
+|m          |६          |
+|dd         | २१, ६     | 
+|d          |२१, ०६     | 
+|DDD        |   आइतबार |
+|DD         |   आइत    |
+|D          |  १        |
 
 
-Formats   Example
-
-yyyy     2073
-
-yyy      073
-
-yy       73
-
-MMM      आश्विन
-
-mmm      असोज
-
-mm       ०६
-
-m        ६
-
-dd       २१, ६ 
-
-d        २१, ०६ 
-
-DDD      आइतबार
-
-DD       आइत
-
-D        १
-
-
-+ many more
+and many more...
