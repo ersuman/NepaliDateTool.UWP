@@ -12,7 +12,7 @@ string nepaliDate=nDate.ToString(); //=> २०७३/०८/२१
 
 string nepaliDate2=nDate.ToString(false); //=> 2073/08/21
 
-string nepaliDate3=nDate.ToString("mmm dd, yyyy DDD"); //=> 2073/08/21
+string nepaliDate3=nDate.ToString("mmm dd, yyyy DDD"); //=> असोज २१, २०७३ आइतबार
 
 
 
