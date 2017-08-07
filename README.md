@@ -43,3 +43,5 @@ NepaliDate.getNepaliNumber(123); //=> १२३
 
 
 and many more...
+
+[ Don't forget to give Star if you liked it ]
