@@ -1,6 +1,8 @@
 # NepaliDateTool.UWP
 Nepali date converter tool for UWP
 
+NuGet Link: https://www.nuget.org/packages/NepaliDateTool.UWP/
+
 **How to use?**
 
 ```c#
