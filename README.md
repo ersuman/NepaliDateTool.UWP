@@ -37,8 +37,8 @@ NepaliDate.getNepaliNumber(123); //=> १२३
 |mmm        |  असोज    |
 |mm         | ०६        |
 |m          |६          |
-|dd         | २१, ६     | 
-|d          |२१, ०६     | 
+|dd         | २१, ०६     | 
+|d          |२१, ६     | 
 |DDD        |   आइतबार |
 |DD         |   आइत    |
 |D          |  १        |
